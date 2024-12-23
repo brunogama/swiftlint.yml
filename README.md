@@ -1,2 +1,2 @@
 # swiftlinit.yml
-My swiftlinit.custom rules
+My swiftlint custom rules
