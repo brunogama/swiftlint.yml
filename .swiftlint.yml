@@ -457,6 +457,7 @@ custom_rules:
     regex: '(?:internal|fileprivate|private)\s+protocol\s+\w+\s*{[^}]*public\s+'
     message: "Protocol members cannot be more accessible than the protocol itself"
     severity: error
+
   object_calisthenics:
     name: "Object Calisthenics Rules"
     included: ".*\\.swift"
